@@ -6,7 +6,7 @@ This system is designed to support individuals who cannot afford professional in
 
 ---
 
-## ⚙ How It Works
+##  How It Works
 
 1. It takes user inputs:
    - Room type  
@@ -78,8 +78,8 @@ Users must download the datasets directly from the original sources.
 
 ---
 
-## 📄 Research Paper
+##  Research Paper
 
 This paper was written as part of our final Advance AI course project at [Princess Nourah bint Abdulrahman University].  
 Although it is not published in a journal, it follows the structure and rigor of an academic research paper.  
-📎 You can read the full paper [here](DecoMind_Research_Paper.pdf).
+📎 You can read the full paper [here](DecoMind Research paper.pdf).
