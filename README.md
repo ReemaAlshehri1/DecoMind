@@ -80,7 +80,7 @@ Users must download the datasets directly from the original sources.
 
 ##  Research Paper
 
-This paper was written as part of our final Advance AI course project at Princess Nourah bint Abdulrahman University.  
+This paper was written as part of our final Advanced AI course project at Princess Nourah bint Abdulrahman University.  
 Although it is not published in a journal, it follows the structure and rigor of an academic research paper.  
 📎 You can read the full paper  [here]([DecoMind Research paper (1).pdf](https://github.com/user-attachments/files/21198694/DecoMind.Research.paper.1.pdf)
 ).
