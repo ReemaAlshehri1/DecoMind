@@ -59,7 +59,7 @@ Users must download the datasets directly from the original sources.
 ##  How to Run
 
 1. Open the project in Google Colab 
-    [Open in Colab]([YOUR_COLAB_LINK_HERE](https://colab.research.google.com/drive/17H8tYgIIZx9IsUZgw5ym1UaR1LQIZYgB?usp=sharing))
+    [Open in Colab]([YOUR_COLAB_LINK_HERE](https://colab.research.google.com/drive/17H8tYgIIZx9IsUZgw5ym1UaR1LQIZYgB?usp=sharing)
 
 2. Download the original datasets from the links above and place them in the following folders:
    - IKEA Furniture Dataset → /content/unzipped_data/content/all_data_filtered  
