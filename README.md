@@ -59,7 +59,7 @@ Users must download the datasets directly from the original sources.
 ##  How to Run
 
 1. Open the project in Google Colab 
-    ([here](https://colab.research.google.com/drive/17H8tYgIIZx9IsUZgw5ym1UaR1LQIZYgB?usp=sharing)
+    [here](https://colab.research.google.com/drive/17H8tYgIIZx9IsUZgw5ym1UaR1LQIZYgB?usp=sharing)
 
 2. Download the original datasets from the links above and place them in the following folders:
    - IKEA Furniture Dataset → /content/unzipped_data/content/all_data_filtered  
@@ -82,5 +82,5 @@ Users must download the datasets directly from the original sources.
 
 This paper was written as part of our final Advanced AI course project at Princess Nourah bint Abdulrahman University.  
 Although it is not published in a journal, it follows the structure and rigor of an academic research paper.  
- You can read the full paper ([here](https://github.com/user-attachments/files/21198694/DecoMind.Research.paper.1.pdf)
+ You can read the full paper [here](https://github.com/user-attachments/files/21198694/DecoMind.Research.paper.1.pdf)
 ).
