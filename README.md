@@ -36,14 +36,15 @@ This project uses three publicly available datasets:
 
 - IKEA Furniture Dataset – For furniture classification  
    [Roboflow Link](https://universe.roboflow.com/projet-ai/ikea-furnitures/dataset/2)
+> Note: We applied a custom filtering process to the IKEA dataset (e.g., removing full-room images) before using it in the model.
 
-- *House Rooms Image Dataset* – For room type classification  
+- House Rooms Image Dataset – For room type classification  
    [Kaggle Link](https://www.kaggle.com/datasets/robinreni/house-rooms-image-dataset)
 
 - Interior Design Styles Dataset – For room style classification  
    [Kaggle Link](https://www.kaggle.com/datasets/stepanyarullin/interior-design-styles)
 
-> Note: We applied a custom filtering process to the IKEA dataset (e.g., removing full-room images) before using it in the model.
+
 
 ---
 
