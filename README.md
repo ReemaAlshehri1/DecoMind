@@ -3,7 +3,7 @@ A Generative AI System for Personalized Interior Design Layouts
 
 
 This system is designed to support individuals who cannot afford professional interior designers by providing automated, personalized room designs tailored to their preferences and spatial layout.
-
+The system combines CLIP, Stable Diffusion with ControlNet, and VGG classifiers to deliver realistic designs and style-matching scores.
 ---
 
 ##  How It Works
