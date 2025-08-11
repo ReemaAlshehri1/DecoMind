@@ -43,7 +43,7 @@ This project uses three publicly available datasets:
 
 - Interior Design Styles Dataset – For room style classification  
    [Kaggle Link](https://www.kaggle.com/datasets/stepanyarullin/interior-design-styles)
-> Note: dataset contains images scraped from Houzz.com, which are copyrighted.  
+> Note: This dataset contains images scraped from Houzz.com, which are copyrighted.  
 These images are provided strictly for academic and research purposes.  
 Please do not redistribute or use the images in any commercial or public setting.  
 Users must download the datasets directly from the original sources.
