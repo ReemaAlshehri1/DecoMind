@@ -30,7 +30,7 @@ This system is designed to support individuals who cannot afford professional in
 
 ---
 
-##  Datasets Used
+##  Datasets 
 
 This project uses three publicly available datasets:
 
@@ -43,17 +43,12 @@ This project uses three publicly available datasets:
 
 - Interior Design Styles Dataset – For room style classification  
    [Kaggle Link](https://www.kaggle.com/datasets/stepanyarullin/interior-design-styles)
-
-
-
----
-
-##  Data License Notice
-
-Important: The "Interior Design Styles" dataset contains images scraped from Houzz.com, which are copyrighted.  
+> Note: dataset contains images scraped from Houzz.com, which are copyrighted.  
 These images are provided strictly for academic and research purposes.  
 Please do not redistribute or use the images in any commercial or public setting.  
 Users must download the datasets directly from the original sources.
+
+
 
 ---
 
